@@ -1,6 +1,9 @@
 # Integrate-a-mobile-website-with-animations-in-CSS
 Open classrooms project - Integrate a mobile website with animations in CSS
 
+# URL Link to webpage: 
+TBD - to add later
+
 # Page Content
 
 Homepage (x1)
@@ -45,5 +48,3 @@ Menu Pages
     <li>The visitor can add the dishes he wishes to his order by clicking on them. A small checkmark will appear to the right of the dish. This tick should slide from right to left.For this first version, the effect can be displayed on hovering on desktop instead of clicking. If the title of the dish is too long, it will have to be trimmed with suspension points.</li>
 <ul>
 
-# URL Link to webpage: 
-TBD - to add later
