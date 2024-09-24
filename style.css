@@ -1,0 +1,23 @@
+/*--------------------------------------Restaurant Cards/Section--------------------------------------*/
+
+.restaurants {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  .restaurant__card {
+    border-radius: 15px;
+    padding: 5px;
+    width: 27%;
+    margin: 2%;
+  }
+  
+  .restaurant__card img {
+    object-fit: cover;
+    height: 100px;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
