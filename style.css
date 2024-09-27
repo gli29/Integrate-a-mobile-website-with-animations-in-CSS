@@ -3,6 +3,7 @@
 .restaurants {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column; 
     justify-content: space-between;
     margin: 20px;
   }
@@ -10,13 +11,13 @@
   .restaurants__card {
     border-radius: 15px;
     padding: 5px;
-    width: 27%;
+    width: 100%;
     margin: 2%;
   }
   
   .restaurants__card img {
     object-fit: cover;
-    height: 100px;
+    height: 160px;
     width: 100%;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
