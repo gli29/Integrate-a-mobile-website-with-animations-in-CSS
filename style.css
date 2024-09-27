@@ -25,7 +25,7 @@
     border-top-right-radius: 15px;
   }
 
-  .restaurants_new-tag {
+  .restaurants__card .restaurants_new-tag {
     background-color: #99E2D0;
     color: #278870;
     border-radius: 2px;
