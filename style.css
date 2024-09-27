@@ -7,14 +7,14 @@
     margin: 20px;
   }
   
-  .restaurant__card {
+  .restaurants__card {
     border-radius: 15px;
     padding: 5px;
     width: 27%;
     margin: 2%;
   }
   
-  .restaurant__card img {
+  .restaurants__card img {
     object-fit: cover;
     height: 100px;
     width: 100%;
