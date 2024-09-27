@@ -22,3 +22,14 @@
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
   }
+
+  .restaurants_new-tag {
+    background-color: #99E2D0;
+    color: #278870;
+    font-weight: 500;
+    padding: 5px 7%;
+    border-radius: 2px;
+    position: absolute;
+    left: 73%;
+    top: 15px;
+  }
